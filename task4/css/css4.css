@@ -1,0 +1,29 @@
+#main{
+	width: 1000px;
+	height: auto;
+	border: 2px solid #4221c5;
+	background-color: #f1f8f4;
+	overflow: auto;
+}
+#sed{
+	width: 400px;
+	height: 200px;
+	border: 3px solid rgb(204, 125, 128);
+	background-color: #ccc;
+	margin: 200px 250px 200px 250px;	/*上左下右*/
+}
+.half1{
+	background: #fc0;
+ 	height: 50px;
+    width: 50px;
+    border-radius: 0 0 100% 0;
+}
+.half2{
+	background: #fc0;
+ 	height: 50px;
+    width: 50px;
+    border-radius: 100% 0 0 0;
+    position: relative;
+    left: 350px;
+    top:99px;
+}
