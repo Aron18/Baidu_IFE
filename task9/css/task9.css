@@ -1,0 +1,34 @@
+body{
+	width: 1280px;
+	height: auto;
+	display: table;
+}
+header{
+	height: 61px;
+	background: url(../img/task_1_9_1_01.gif) no-repeat;
+}
+header>a{
+	position: absolute;
+	left: 1180px;
+	top: 25px;
+}
+.em1{
+	position: relative;
+	top: 8px;
+	left: 5px;
+}
+.em2{
+	position: relative;
+	top: 9px;
+	left: -4px;
+}
+#Srch>input{
+	border:none;
+	width: 218px;
+	height: 33px;
+	background: url(../img/task_1_9_1_02.gif) no-repeat;
+}
+#Srch{
+	position: relative;
+	left: 800px;
+}
