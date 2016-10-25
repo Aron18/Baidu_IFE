@@ -4,25 +4,27 @@ body{
 	display: table;
 }
 header{
+	font-size: 1.2em;
+	font-weight: 600;
 	height: 61px;
 	background: url(../img/task_1_9_1_01.gif) no-repeat;
 }
 header>a{
 	position: absolute;
-	top: 26px;
+	top: 25px;
 	left: 1180px;
 }
-header>a :visited{
-	text-decoration: none;
-	color: #222222;
+header>a:link {
+    text-decoration: none;
+    color: #367432;
 }
-header>a :hover{
+header>a:visited{
 	text-decoration: none;
-		color: #ED4444;
+	color: #2B2A24;
 }
-header>a :link{
+header>a:hover{
 	text-decoration: none;
-	color:#282727;
+	color: #D23838;
 }
 .em1{
 	position: absolute;
