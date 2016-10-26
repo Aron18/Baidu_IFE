@@ -89,3 +89,26 @@ aside{
 	border-left: 2px solid rgb(110, 128, 149);
 	padding-left: 25px;
 }
+.em5{
+	color: #F6ECEC;
+	font-size: 0.8em;
+}
+.em6{
+	color: rgb(110, 128, 149);
+	font-size: 0.8em;
+}
+.ele1{
+	width: 90%;
+}
+.ele1>img{
+	float: left;
+	clear: right;
+}
+.ele1>p{
+	float: right;
+}
+#list{
+	position: absolute;
+	top: 200px;
+	left: 20%;
+}
