@@ -96,25 +96,18 @@ aside{
 	padding-left: 25px;
 }
 .em5{
-	color: #F6ECEC;
-	font-size: 0.8em;
+	color: rgb(237, 237, 240);
 }
 .em6{
-	color: rgb(110, 128, 149);
-	font-size: 0.8em;
+	color: rgb(110, 128, 150);
 }
-.ele1>img{
-	float: left;
-	clear: right;
-}
-.ele1>p{
-	float: right;
-}
-.ele1 .em5 .em7 .em6 .em5{
-	width: 60%;
-	height: 5px;
+#panel{
+	width: 100px;
+	display: table;
+	border: 3px solid #EE0E0E;
 }
 #list{
+	font-size: 13px;
 	position: absolute;
 	top: 200px;
 	left: 20%;
