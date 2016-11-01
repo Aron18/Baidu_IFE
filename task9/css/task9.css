@@ -47,6 +47,12 @@ header>a:hover{
 	left: 860px;
 	top: 20px;
 }
+#main{
+	width: 1280px;
+	height: auto;
+	display: table;
+	border: 3px solid #F60909;
+}
 aside{
 	width: 260px;
 	height: 1211px;
@@ -97,15 +103,16 @@ aside{
 	color: rgb(110, 128, 149);
 	font-size: 0.8em;
 }
-.ele1{
-	width: 90%;
-}
 .ele1>img{
 	float: left;
 	clear: right;
 }
 .ele1>p{
 	float: right;
+}
+.ele1 .em5 .em7 .em6 .em5{
+	width: 60%;
+	height: 5px;
 }
 #list{
 	position: absolute;
