@@ -195,3 +195,74 @@ nav{
 .tes>a:hover{
 	color: #54B558;
 }
+.sch{
+	width: 87.2%;
+	height: 95px;
+	display: table;
+	border: 1px solid #214FC5;
+	position: absolute;
+	top: 5%;
+	left: 6%;
+	background-color: rgb(255, 255, 255);
+}
+.lit{
+	width: 87.2%;
+	height: 72px;
+	display: table;
+	border: 1px solid #F10707;
+	position: absolute;
+	top: 14%;
+	left: 6%; 
+	background-color: rgb(255, 255, 255);
+}
+#mainPanel>p{
+	color: #403E3E;
+	position: absolute;
+	top: 20.5%;
+	left: 6%;
+}
+.data{
+	width: 87.2%;
+	height: 77px;
+	border: 1px solid #2A832A;
+	position: absolute;
+	top: 24%;
+	left: 6%;
+	background-color: rgb(255, 255, 255); 
+}
+.mal{
+	width: 52.5%;
+	height: 347px;
+	border: 1px solid #E5D941;
+	position: absolute;
+	top: 32%;
+	left: 6%;
+	background-color: rgb(255, 255, 255); 
+}
+.proj{
+	width: 33.3%;
+	height: 347px;
+	border: 1px solid #D7614A;
+	position: absolute;
+	top: 32%;
+	left: 60%;
+	background-color: rgb(255, 255, 255); 
+}
+.calen{
+	width: 34.4%;
+	height: 363px;
+	border: 1px solid #D354FA;
+	position: absolute;
+	top: 62%;
+	left: 6%;
+	background-color: rgb(255, 255, 255); 
+}
+.rank{
+	width: 51.8%;
+	height: 363px;
+	border: 1px solid #2A832A;
+	position: absolute;
+	top: 62%;
+	left: 41.5%;
+	background-color: rgb(255, 255, 255); 
+}
