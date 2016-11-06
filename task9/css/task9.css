@@ -80,7 +80,7 @@ aside{
 }
 .detl{
 	color: rgb(110, 128, 149);
-	font-size: 1.3em;
+	font-size: 1.2em;
 	position: absolute;
 	text-align: center;
 	top: 100px;
@@ -95,16 +95,54 @@ aside{
 	border-left: 2px solid rgb(110, 128, 149);
 	padding-left: 25px;
 }
-.em5{
+.em5>a:visited{
+	text-decoration: underline;
 	color: rgb(237, 237, 240);
 }
-.em6{
+.em6>a:visited{
 	color: rgb(110, 128, 150);
 }
-#panel{
-	width: 100px;
+.panel{
+	width: 260px;
 	display: table;
-	border: 3px solid #EE0E0E;
+	background-color: rgb(56, 61, 78);
+	position: relative;
+	right: 52px;
+}
+.p1{
+	position: relative;
+	left: 20%;
+}
+.em5{
+	width: 170px;
+}
+.em6{
+	width: 170px;
+}
+.em5>img{
+	float: left;
+	padding-right: 6px;
+}
+.em5>p{
+	float: right;
+}
+.em6>img{
+	float: left;
+	padding-right: 3%;
+}
+.em6>p{
+	float: right;
+}
+.le1{
+	padding-bottom:1%; 
+}
+.em7{
+	position: relative;
+	left: 7%;
+}
+.em8{
+	position: relative;
+	left: 22%;
 }
 #list{
 	font-size: 13px;
