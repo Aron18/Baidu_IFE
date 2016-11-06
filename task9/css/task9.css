@@ -24,7 +24,7 @@ header>a:visited{
 }
 header>a:hover{
 	text-decoration: none;
-	color: #D23838;
+	color: #54B558;
 }
 .em1{
 	position: absolute;
@@ -95,12 +95,23 @@ aside{
 	border-left: 2px solid rgb(110, 128, 149);
 	padding-left: 25px;
 }
+.em5>a{
+	text-decoration: none;
+}
+.em6>a{
+	text-decoration: none;
+}
 .em5>a:visited{
-	text-decoration: underline;
 	color: rgb(237, 237, 240);
 }
 .em6>a:visited{
 	color: rgb(110, 128, 150);
+}
+.em5>a:hover{
+	color: #54B558;
+}
+.em6>a:hover{
+	color: #54B558;
 }
 .panel{
 	width: 260px;
@@ -149,4 +160,38 @@ aside{
 	position: absolute;
 	top: 200px;
 	left: 20%;
+}
+#mainPanel{
+	width: 1020px;
+	height: 1211px;
+	display: table;
+	border:1px solid #cf2828;
+	position: absolute;
+	left: 267px;
+	top: 65px;
+	background-color: rgb(238, 238, 237);
+}
+nav{
+	width: 1020px;
+	height: 32px;
+	background-color:rgb(255,255,255); 
+}
+.tet>a{
+	text-decoration: none;
+
+}
+.tes>a{
+	text-decoration: none;
+}
+.tet>a:visited{
+	color: rgb(110, 128, 150);
+}
+.tet>a:hover{
+	color: #54B558;
+}
+.tes>a:visited{
+	color: rgb(117,160,198);
+}
+.tes>a:hover{
+	color: #54B558;
 }
