@@ -198,8 +198,6 @@ nav{
 #sch{
 	width: 87.2%;
 	height: 95px;
-	display: table;
-	border: 1px solid #214FC5;
 	position: absolute;
 	top: 5%;
 	left: 6%;
@@ -255,11 +253,74 @@ nav{
 	font-size: 0.9em;
 }
 .a4>textarea{
-	width: 8em;
+	width: 9em;
 	height: 1em;
 	position: absolute;
-	top: 18%;
+	top: 24%;
 	left: 38px;
+}
+.a4{
+	position: absolute;
+	left: 48%;
+	top: 10%;
+}
+.a5>p{
+	color: rgb(110, 128, 150);
+	font-size: 0.9em;
+}
+.a5>select{
+	width: 80px;
+	height: 26px;
+	position: absolute;
+	top: 24%;
+	left: 38px;
+}
+.a5{
+	position: absolute;
+	left: 48%;
+	top: 38%;
+}
+.a6>p{
+	color: rgb(110, 128, 150);
+	font-size: 0.9em;
+}
+.a6>select{
+	width: 10em;
+	height: 26px;
+	position: absolute;
+	top: 24%;
+	left: 52px;
+}
+.a6{
+	position: absolute;
+	left: 64%;
+	top: 38%;
+}
+.a7>p{
+	color: rgb(110, 128, 150);
+	font-size: 0.9em;
+}
+.a7>select{
+	width: 80px;
+	height: 26px;
+	position: absolute;
+	top: 24%;
+	left: 47px;
+}
+.a7{
+	position: absolute;
+	left: 70.5%;
+	top: 8%;
+}
+#sch>button{
+	width: 5em;
+	height: 2em;
+	background-color: rgb(57, 139, 194);
+	color: rgb(255, 255, 255);
+	position: absolute;
+	top: 35%;
+	left: 87%;
+	border: none;
 }
 #lit{
 	width: 87.2%;
