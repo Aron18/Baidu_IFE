@@ -195,7 +195,7 @@ nav{
 .tes>a:hover{
 	color: #54B558;
 }
-.sch{
+#sch{
 	width: 87.2%;
 	height: 95px;
 	display: table;
@@ -204,8 +204,64 @@ nav{
 	top: 5%;
 	left: 6%;
 	background-color: rgb(255, 255, 255);
+	background-image: url('../img/11.gif');
 }
-.lit{
+.a1>p{
+	color: rgb(110, 128, 150);
+	font-size: 0.9em;
+}
+.a1>select{
+	position: absolute;
+	top: 15px;
+	left: 55px;
+}
+.a1{
+	position: absolute;
+	top: 10%;
+	left: 6%;
+}
+.a2>p{
+	color: rgb(110, 128, 150);
+	font-size: 0.9em;
+}
+.a2>select{
+	width: 100px;
+	position: absolute;
+	top: 23%;
+	left: 38px;
+}
+.a2{
+	position: absolute;
+	left: 23.5%;
+	top: 10%;
+}
+.a3>p{
+	color: rgb(110, 128, 150);
+	font-size: 0.9em;
+}
+.a3>select{
+	width: 100px;
+	position: absolute;
+	top: 23%;
+	left: 38px;
+}
+.a3{
+	position: absolute;
+	left: 23.5%;
+	top: 36%;
+}
+.a4>p{
+	color: rgb(110, 128, 150);
+	font-size: 0.9em;
+}
+.a4>textarea{
+	width: 8em;
+	height: 1em;
+	position: absolute;
+	top: 18%;
+	left: 38px;
+}
+#lit{
 	width: 87.2%;
 	height: 72px;
 	display: table;
@@ -221,7 +277,7 @@ nav{
 	top: 20.5%;
 	left: 6%;
 }
-.data{
+#data{
 	width: 87.2%;
 	height: 77px;
 	border: 1px solid #2A832A;
@@ -230,7 +286,7 @@ nav{
 	left: 6%;
 	background-color: rgb(255, 255, 255); 
 }
-.mal{
+#mal{
 	width: 52.5%;
 	height: 347px;
 	border: 1px solid #E5D941;
@@ -239,7 +295,7 @@ nav{
 	left: 6%;
 	background-color: rgb(255, 255, 255); 
 }
-.proj{
+#proj{
 	width: 33.3%;
 	height: 347px;
 	border: 1px solid #D7614A;
@@ -248,7 +304,7 @@ nav{
 	left: 60%;
 	background-color: rgb(255, 255, 255); 
 }
-.calen{
+#calen{
 	width: 34.4%;
 	height: 363px;
 	border: 1px solid #D354FA;
@@ -257,7 +313,7 @@ nav{
 	left: 6%;
 	background-color: rgb(255, 255, 255); 
 }
-.rank{
+#rank{
 	width: 51.8%;
 	height: 363px;
 	border: 1px solid #2A832A;
