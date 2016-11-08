@@ -320,18 +320,92 @@ nav{
 	position: absolute;
 	top: 35%;
 	left: 87%;
-	border: none;
 }
 #lit{
 	width: 87.2%;
 	height: 72px;
 	display: table;
-	border: 1px solid #F10707;
 	position: absolute;
 	top: 14%;
 	left: 6%; 
-	background-color: rgb(255, 255, 255);
 }
+#lit>button{
+	height: 93px;
+	width: 34px;
+	background-color: rgb(255, 255, 255);
+	margin-right: 6px;
+}
+.b1{
+	background-image: url('../img/12.gif');
+	float: left;
+}
+.b2{
+	background-image: url('../img/13.gif');
+}
+#lit>div{
+	height: 90px;
+	width: 126px;
+	background-color: rgb(255, 255, 255);
+	border-right: 3px solid #6E6E6E;
+	border-left: 1px solid #6E6E6E;
+	border-bottom: 1px solid #6E6E6E;
+	margin-right: 5px;
+}
+.b2{
+	float: left;
+}
+.b3{
+	border-top: 3px solid rgb(67, 137, 200);
+	float: left;
+}
+.b4{
+	border-top: 3px solid #fff;
+	float: left;
+}
+.b5{
+	border-top: 3px solid #fff;
+	float: left;
+}
+.b6{
+	border-top: 3px solid #fff;
+	float: left;
+}
+.b7{
+	border-top: 3px solid #fff;
+	float: left;
+}
+.b8{
+	border-top: 3px solid #fff;
+	float: left;
+	margin-right: 0px;
+}
+.b8>p{
+	position: absolute;
+	top: 1em;
+	right: 20px;
+	font-size: 1em;
+	color: #6F6E6E;
+}
+.b8>img{
+	position: absolute;
+	top: 25%;
+	right: 90px;
+}
+#lit>div>p{
+	text-align: center;
+}
+.c1{
+	color: #232323;
+}
+.c2{
+	color: #6B6B6B;
+	font-size: 1.3em;
+}
+.c3{
+	color: rgb(236, 101, 0);
+	font-size: 2em;
+}
+
 #mainPanel>p{
 	color: #403E3E;
 	position: absolute;
