@@ -503,6 +503,54 @@ nav{
 	left: 60%;
 	background-color: rgb(255, 255, 255); 
 }
+.e1{
+	width: 100%;
+	font-size: 0.8em;
+	color: #848383;
+	text-align: left;
+	background-color: #EAEAEA;
+	position: absolute;
+	top: 0px;
+}
+.e1>p{
+	margin-left: 20px;
+}
+.e2{
+	position: absolute;
+	top: 15%;
+	left: 7%;
+	border-bottom: 1px solid #D0CBCB;
+	padding-bottom: 50px;
+}
+.e2>p{
+	font-size: 1em;
+	color: #848383;
+	margin-bottom: 10px;
+}
+.e2>p>span{
+	font-size: 0.9em;
+	color: #090909;
+}
+.e2>table{
+	width: 19em;
+	border-bottom: 1px solid;
+}
+.e3{
+	font-size: 1em;
+	color: #848383;
+}
+.e5{
+	position: absolute;
+	bottom: 1%;
+}
+.e5>button{
+	width: 5em;
+	height: 2.6em;
+	color: rgb(255,255,255);
+	background-color: rgb(57, 139, 194);
+	position: relative;
+	left: 100px;
+}
 #calen{
 	width: 34.4%;
 	height: 363px;
