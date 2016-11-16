@@ -494,6 +494,11 @@ nav{
 	left: 6%;
 	background-color: rgb(255, 255, 255); 
 }
+.table-title {
+  line-height: 40px;
+  background-color: #f4f6f7;
+  padding-left: 20px;
+}
 #proj{
 	width: 33.3%;
 	height: 347px;
